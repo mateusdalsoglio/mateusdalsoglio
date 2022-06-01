@@ -1,7 +1,7 @@
 Olá, Eu sou o Mateus Dalsoglio 👋
 
 
-- 🔭 Estágiario na área de TI
+- 🔭 Desenvolvedor jr
 - 📚 Cursando Análise e Desenvolvimento de Sistemas (5/5)
 - 💻 Estudando Javascript
 - 📫 Contado de email: mateusdalsoglio@yahoo.com.br
