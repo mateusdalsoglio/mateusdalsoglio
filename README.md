@@ -2,9 +2,8 @@ Olá, Eu sou o Mateus Dalsoglio 👋
 
 
 - 🔭 Desenvolvedor jr
-- 📚 Cursando Análise e Desenvolvimento de Sistemas (5/5)
-- 💻 Estudando Javascript
-- 📫 Contado de email: mateusdalsoglio@yahoo.com.br
+- 📚 Formação Análise e Desenvolvimento de Sistemas
+- 📫 Contado de email: mateus.dalsoglio@yahoo.com
 
 <div>
   <a href="https://github.com/mateusdalsoglio">
