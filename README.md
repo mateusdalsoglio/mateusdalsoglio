@@ -5,7 +5,7 @@ Olá, Eu sou o Mateus Dalsoglio 👋
 - 💻 Desenvolvedor jr
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 📫 Contado de email: mateus.dalsoglio@yahoo.com
-- 📱 Fone:(15)998586990
+
 
 <div align="center">
   <a href="https://github.com/mateusdalsoglio">
