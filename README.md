@@ -5,6 +5,7 @@ Olá, Eu sou o Mateus Dalsoglio 👋
 - 💻 Desenvolvedor jr
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 📫 Contado de email: mateus.dalsoglio@yahoo.com
+Transição de Carreira para Programação aos 30 Anos | Desenvolvedor desde 2021
 
 
 <div align="center">
