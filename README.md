@@ -4,8 +4,9 @@ Olá, Eu sou o Mateus Dalsoglio 👋
 - 💼 Schadek Automotive
 - 💻 Desenvolvedor jr
 - 🎓 Análise e Desenvolvimento de Sistemas
+- 🔥 Atualmente entudando React
 - 📫 Contado de email: mateus.dalsoglio@yahoo.com
-- Atualmente entudando React
+
 
 
 - Transição de Carreira para Programação aos 30 Anos | Desenvolvedor desde 2021
