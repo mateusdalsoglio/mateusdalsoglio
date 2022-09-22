@@ -7,11 +7,6 @@ Olá, Eu sou o Mateus Dalsoglio 👋
 - 🔥 Atualmente estudando React e PHP
 - 📫 Contado de email: mateus.dalsoglio@yahoo.com
 
-
-
-- Transição de Carreira para Programação aos 30 Anos | Desenvolvedor desde 2021
-
-
 <div align="center">
   <a href="https://github.com/mateusdalsoglio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateusdalsoglio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
