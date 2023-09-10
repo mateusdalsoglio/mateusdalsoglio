@@ -1,9 +1,9 @@
-<h1 align="center">Hello world :ghost:</h1>
+<h1 align="center">Olá, me chamo Mateus, muito prazer.</h1>
 
 
-- 💼 Schadek Automotive
-- 💻 Tecnologia da Informação
-- 🎓 Análise e Desenvolvimento de Sistemas
+- 💼 Técnico de informática | Schadek Automotive
+- 💻 Cursando Sistemas para Internet na Universidade Cruzeiro do Sul (2/4)
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 📫 Contado de email: mateus.dalsoglio@yahoo.com
 
 <div align="center">
