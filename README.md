@@ -2,7 +2,7 @@
 
 
 - 💼 Schadek Automotive
-- 💻 Desenvolvedor jr
+- 💻 Tecnologia da Informação
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 📫 Contado de email: mateus.dalsoglio@yahoo.com
 
